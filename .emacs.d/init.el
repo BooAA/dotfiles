@@ -4,7 +4,7 @@
 (setopt custom-file (expand-file-name "custom.el" user-emacs-directory))
 
 (setopt native-comp-async-report-warnings-errors 'silent
-        native-comp-compiler-options '("-O3" "-march=tigerlake"))
+        native-comp-compiler-options '("-O2" "-march=tigerlake"))
 
 (setopt load-prefer-newer t)
 (add-to-list 'load-path (expand-file-name "lisp" user-emacs-directory))

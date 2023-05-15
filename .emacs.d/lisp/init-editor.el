@@ -54,7 +54,7 @@
          ("M-<down>" . move-dup-move-lines-down)))
 
 (use-package easy-kill
-  :bind ([remap kill-region-save] . easy-kill))
+  :bind ([remap kill-ring-save] . easy-kill))
 
 (use-package crux
   :bind (("S-<return>" . crux-smart-open-line)
