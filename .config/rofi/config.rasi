@@ -1,0 +1,5 @@
+configuration {
+ modi: "window,run,combi";
+ font: "hack 12";
+ combi-modi: "window,run,filebrowser";
+}@theme "/usr/share/rofi/themes/Paper.rasi"

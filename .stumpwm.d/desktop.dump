@@ -1,0 +1,85 @@
+#S(DDUMP
+   :SCREENS (#S(SDUMP
+                :NUMBER 0
+                :GROUPS (#S(GDUMP
+                            :NUMBER 1
+                            :NAME "Default"
+                            :TREE (#S(FDUMP
+                                      :NUMBER 6
+                                      :X 0
+                                      :Y 0
+                                      :WIDTH 1920
+                                      :HEIGHT 1080
+                                      :WINDOWS (6291459)
+                                      :CURRENT 6291459))
+                            :CURRENT 6)
+                         #S(GDUMP
+                            :NUMBER 2
+                            :NAME "TERM"
+                            :TREE ((#S(FDUMP
+                                       :NUMBER 6
+                                       :X 0
+                                       :Y 0
+                                       :WIDTH 960
+                                       :HEIGHT 1080
+                                       :WINDOWS (37748740)
+                                       :CURRENT 37748740)
+                                    (#S(FDUMP
+                                        :NUMBER 0
+                                        :X 960
+                                        :Y 0
+                                        :WIDTH 960
+                                        :HEIGHT 360
+                                        :WINDOWS (48234500)
+                                        :CURRENT 48234500)
+                                     (#S(FDUMP
+                                         :NUMBER 1
+                                         :X 960
+                                         :Y 360
+                                         :WIDTH 960
+                                         :HEIGHT 360
+                                         :WINDOWS (58720260)
+                                         :CURRENT 58720260)
+                                      #S(FDUMP
+                                         :NUMBER 2
+                                         :X 960
+                                         :Y 720
+                                         :WIDTH 960
+                                         :HEIGHT 360
+                                         :WINDOWS (69206020)
+                                         :CURRENT 69206020)))))
+                            :CURRENT 2)
+                         #S(GDUMP
+                            :NUMBER 3
+                            :NAME "EMACS"
+                            :TREE (#S(FDUMP
+                                      :NUMBER 6
+                                      :X 0
+                                      :Y 0
+                                      :WIDTH 1920
+                                      :HEIGHT 1080
+                                      :WINDOWS (79692100)
+                                      :CURRENT 79692100))
+                            :CURRENT 6)
+                         #S(GDUMP
+                            :NUMBER 4
+                            :NAME "MISC"
+                            :TREE ((#S(FDUMP
+                                       :NUMBER 6
+                                       :X 0
+                                       :Y 0
+                                       :WIDTH 960
+                                       :HEIGHT 1080
+                                       :WINDOWS (83886086)
+                                       :CURRENT 83886086)
+                                    #S(FDUMP
+                                       :NUMBER 0
+                                       :X 960
+                                       :Y 0
+                                       :WIDTH 960
+                                       :HEIGHT 1080
+                                       :WINDOWS (81788935)
+                                       :CURRENT 81788935)))
+                            :CURRENT 6))
+                :CURRENT 4))
+   :CURRENT 0)
