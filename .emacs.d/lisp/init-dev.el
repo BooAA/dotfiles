@@ -30,6 +30,8 @@
 
 (use-package c-ts-mode
   :ensure nil
+  :demand t
+  :custom (c-ts-mode-indent-style 'linux)
   :config
   (add-to-list 'major-mode-remap-alist '(c-mode . c-ts-mode))
   (add-to-list 'major-mode-remap-alist '(c++-mode . c++-ts-mode))
